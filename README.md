@@ -159,43 +159,43 @@ plt.show()
 
 ## Output 
 ### Original Image 
-<img width="1009" height="432" alt="image" src="https://github.com/user-attachments/assets/4a6bb405-8d75-4a61-8fbe-6f52cca48209" />
+<img width="643" height="337" alt="image" src="https://github.com/user-attachments/assets/6fcad79d-2104-495d-8bb6-9f6a1447550a" />
 
 
 ###  Sobel Edge Detector
 - Detects edges in horizontal and vertical directions  
 - Produces gradient-based edge map
 
-<img width="854" height="310" alt="image" src="https://github.com/user-attachments/assets/bb228214-3c74-49d0-bffc-b324d7775c33" />
+<img width="640" height="241" alt="image" src="https://github.com/user-attachments/assets/c61b5e88-c473-43f9-9ea8-a8c9cd161015" />
 
 
 ###  Prewitt Edge Detector
 - Similar to Sobel but simpler kernel  
 - Detects directional edges
   
-<img width="878" height="295" alt="image" src="https://github.com/user-attachments/assets/d4762cd9-d83e-4a60-a845-ed851656f715" />
+<img width="677" height="242" alt="image" src="https://github.com/user-attachments/assets/52a9f2c9-b198-4537-88a5-a3c767abeb38" />
 
 ###  Roberts Edge Detector
 - Detects edges using diagonal gradients  
 - Sensitive to noise  
 
 
-<img width="865" height="303" alt="image" src="https://github.com/user-attachments/assets/6256c362-62a0-472f-8e8f-5b4e7b4a94aa" />
+<img width="702" height="232" alt="image" src="https://github.com/user-attachments/assets/88cf4db6-2b02-41d0-86fb-d43398be554f" />
 
 ###  Laplacian Edge Detector
 - Detects edges using second-order derivatives  
 - Highlights rapid intensity changes  
 
-<img width="891" height="306" alt="image" src="https://github.com/user-attachments/assets/90d41e7c-0676-4562-ad83-ceda5ed2a36c" />
+<img width="666" height="227" alt="image" src="https://github.com/user-attachments/assets/ecbe4463-142d-4e56-8e73-633ea5f4ada6" />
 
 ###  Canny Edge Detector
 - Multi-stage edge detection  
 - Produces clean and thin edges  
 
-<img width="848" height="299" alt="image" src="https://github.com/user-attachments/assets/f3cdc5b9-3178-43e1-b4f2-bc45c192a476" />
+<img width="668" height="232" alt="image" src="https://github.com/user-attachments/assets/6ca8ce3f-9b23-45af-ae96-2dcd06fcd700" />
 
 ### Figure Size
-<img width="704" height="111" alt="image" src="https://github.com/user-attachments/assets/dfb67a8f-7f28-4ec7-9b40-c1d4d8999c90" />
+<img width="413" height="67" alt="image" src="https://github.com/user-attachments/assets/47af45f2-c4ff-4f82-9d6c-ca61b6e7e75b" />
 
 
 ## Result
